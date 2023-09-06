@@ -9,7 +9,8 @@ Google Drive API enabled and credentials.json file obtained. You can follow the 
 How to Use
 Clone the repository:
 
-`git clone https://github.com/Mr-Nobody1/CSV-Link-extractor.git`/n
+`git clone https://github.com/Mr-Nobody1/CSV-Link-extractor.git`
+
 `cd CSV-Link-extractor`
 
 Install the required Python packages:
